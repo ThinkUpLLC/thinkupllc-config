@@ -6,19 +6,9 @@
  *
  */
 
-if (date('Y-m-d') == '2014-12-01') {
-//if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Starting today, and all month long, it\'s your Best of 2014!';
-}
-
-if (date('Y-m-d') == '2014-12-02') {
-//if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Tomorrow\'s Best of 2014: Your chattiest day.';
-}
-
 if (date('Y-m-d') == '2014-12-03') {
 //if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Look out tomorrow for your Photo of the Year in Best of 2014.';
+    $THINKUP_CFG['thinkupllc_email_tout'] = 'Tomorrow in Best of 2014: Look out for your Photo of the Year.';
 }
 
 if (date('Y-m-d') == '2014-12-04') {
@@ -28,17 +18,17 @@ if (date('Y-m-d') == '2014-12-04') {
 
 if (date('Y-m-d') == '2014-12-05') {
 //if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Coming up on Monday, even more Best of 2014.';
+    $THINKUP_CFG['thinkupllc_email_tout'] = 'Coming up on Monday: Even more Best of 2014.';
 }
 
 if (date('Y-m-d') == '2014-12-08') {
 //if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Who was your BFF for 2014? Find out in tomorrow\'s Best of 2014!';
+    $THINKUP_CFG['thinkupllc_email_tout'] = 'Who was your BFF this year? Find out in tomorrow\'s Best of 2014!';
 }
 
 if (date('Y-m-d') == '2014-12-09') {
 //if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Tomorrow\'s Best of 2014 covers every last word of 2014.';
+    $THINKUP_CFG['thinkupllc_email_tout'] = 'Tomorrow\'s Best of 2014 covers every last word of your year.';
 }
 
 if (date('Y-m-d') == '2014-12-10') {
@@ -48,7 +38,7 @@ if (date('Y-m-d') == '2014-12-10') {
 
 if (date('Y-m-d') == '2014-12-11') {
 //if (true) {
-    $THINKUP_CFG['thinkupllc_email_tout'] = 'Who got link love in 2014? Find out in Best of 2014 tomorrow!';
+    $THINKUP_CFG['thinkupllc_email_tout'] = 'Who got link love this year? Find out in Best of 2014 tomorrow!';
 }
 
 if (date('Y-m-d') == '2014-12-12') {
